@@ -1,4 +1,4 @@
-## Approuch
+## Approach
 
 - Create a variable `closest` and assign the 0 index value i.e nums[0].
 - Run a loop through the array and check if the `abs(i)` is less than `abs(closest)` if yes then update the closest value with `i`.
